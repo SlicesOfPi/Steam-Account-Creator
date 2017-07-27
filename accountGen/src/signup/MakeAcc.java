@@ -15,7 +15,7 @@ import org.jsoup.nodes.Document;
 import org.jsoup.nodes.Element;
 
 
-public class MakeGroup {
+public class MakeAcc {
 	//public static CloseableHttpClient httpclient = HttpClients.createDefault();
 	public static Scanner scanner = new Scanner(System.in);
 	public static String word = "";

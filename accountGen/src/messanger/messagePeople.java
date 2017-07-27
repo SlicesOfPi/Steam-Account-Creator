@@ -1,4 +1,7 @@
-package groupSpam;
+package messanger;
+
+/*
+package messanger;
 
 import java.io.IOException;
 import java.util.Map;
@@ -31,3 +34,5 @@ public class joinGroup {
 	
 	
 }
+*/
+// This will be the future code for messaging people.
